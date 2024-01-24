@@ -44,6 +44,6 @@ Week 8: Prepare a demonstration of the data collection and learning algorithm, s
 Week 7-8: Complete the user interface platform, ensuring full compatibility with the ROS2 system and multi-robot control. Document the interface design and functionalities, preparing for a comprehensive demonstration.
 
 ## Footnotes
-Let's continue our regular team meetings Wednedays at 6 pm (Bomb Shelter) to ensure cross-functional alignment and address any questions/challenges or adjustments to the plan. We will continue our momentum and move fast in our developments, treating this project like a varsity sport. I've scheduled a time for myself and Matthew (2-4 PM every Thu, Fri, and Sat) for workdays in the makerspace, but I will talk about your schedules in the meeting today.
+Let's continue our regular team meetings Wednedays at 6 pm (Bomb Shelter) to ensure cross-functional alignment and address any questions/challenges or adjustments to the plan. We will continue our momentum and move fast in our developments, treating this project like a varsity sport. I've scheduled a time for us (2-4 PM every Thu, Fri, and Sat) for workdays in the Makerspace.
 
 In Week 2, I've discussed with ASME leads, and we will begin collaborating with them starting 4th week of Winter 2024. We are finalizing our plans for collaboration. Blake Dee will be ASME's representative who connects me with the other ASME leads.
