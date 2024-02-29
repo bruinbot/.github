@@ -43,6 +43,8 @@ Week 8: Prepare a demonstration of the data collection and learning algorithm, s
 ### Gavin:
 Week 7-8: Complete the user interface platform, ensuring full compatibility with the ROS2 system and multi-robot control. Document the interface design and functionalities, preparing for a comprehensive demonstration.
 
+<img src="https://github.com/jacobsayono/jacobsayono.github.io/blob/master/assets/27aa9cba-a3e3-4853-abb8-96ba73dc590f.png" width="1920">
+
 ## Footnotes
 Let's continue our regular team meetings Wednedays at 6 pm (Bomb Shelter) to ensure cross-functional alignment and address any questions/challenges or adjustments to the plan. We will continue our momentum and move fast in our developments, treating this project like a varsity sport. I've scheduled a time for us (2-4 PM every Thu, Fri, and Sat) for workdays in the Makerspace.
 
